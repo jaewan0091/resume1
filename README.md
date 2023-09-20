@@ -3,6 +3,8 @@
 # <h1>Resume of [JaewanKim]</h1>
  > 
   
+This text is <em><strong>really important</strong></em>.
+
 
 
 ## [1. Outline] 🙌
@@ -14,7 +16,8 @@
    - 이메일: wodhks7868@naver.com
    - GitHub: https://github.com/jaewan0091
    
-### [1.4. Skills]
+   
+### [1.2. Skills]
 Skill       | Experience | Notes
 ------------|------------|---------------------------
 JAVA        | 2개월       | 기본적인 문법지식, 함수에 대해 배움
@@ -22,7 +25,7 @@ SwiftUI     | 23.10~     | ios에 관한 전문지식 습득 예정
 ETC..       |            |
 
 
-### [1.5. Experiences]
+### [1.3. Experiences]
  - 프로젝트경험: 0년
  - 총 상용 경력: 0개월
    - 정규직: 0개월
@@ -33,7 +36,10 @@ Company | Entry Date | Leave Date | Form
 [유니텍해양연구소]| 2024-10    | 2025-4    |계약직
 [아이지넷]      | 2025-08    | 2026-08    |계약직
 
-##[2. Introduction] 🧠
+
+
+
+## [2. Introduction] 🧠
 
 ### [2.1 For a lifetime]
  2023 년 개발에 흥미를 가지기 시작해서 ios개발자를 목표로 달려왔습니다
@@ -47,7 +53,11 @@ Company | Entry Date | Leave Date | Form
 ### [2.4 Order of priority]
 어떠한 문제와 상황이 동시에 겹치거나 발생할때 일의 우선순위를 먼저 생각하고 결정지어 행동합니다.
 
+
+
+
 ## [3. My Projects] 👨‍👩‍👧‍👦
 Company        | Project                | Skills              | Special Note
 ---------------|------------------------|---------------------|---------------------
 SmartCareWorks | wish the our results   | SwiftUI, UIkit      | GPU on Browser(EX)
+etc            |                        |                     |
