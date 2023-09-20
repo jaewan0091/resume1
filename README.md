@@ -63,5 +63,6 @@ etc            |                        |                     |
 
 </div>
 <div align ="center">
-***이 이력서는 사실이 아닙니다***
-***designed By JaewanKim ***
+<em><weak>이 이력서는 사실이 아닙니다</weak></em>
+<em><weak>designed By JaewanKim </weak></em>
+</div>
