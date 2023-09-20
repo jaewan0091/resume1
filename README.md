@@ -3,9 +3,8 @@
 # <h1>Resume of [JaewanKim]</h1>
  > 
   
-This text is <em><strong>really important</strong></em>.
 
-This text is ***really important***.
+
 
 ## [1. Outline] 🙌
 ### [1.1. Profile]
@@ -61,3 +60,8 @@ Company        | Project                | Skills              | Special Note
 ---------------|------------------------|---------------------|---------------------
 SmartCareWorks | wish the our results   | SwiftUI, UIkit      | GPU on Browser(EX)
 etc            |                        |                     |
+
+</div>
+<div align ="center">
+***이 이력서는 사실이 아닙니다***
+***designed By JaewanKim ***
