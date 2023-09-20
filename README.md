@@ -62,7 +62,7 @@ SmartCareWorks | wish the our results   | SwiftUI, UIkit      | GPU on Browser(E
 etc            |                        |                     |
 
 </div>
-<div align ="center">
-<em><weak>이 이력서는 사실이 아닙니다</weak></em>
-<em><weak>designed By JaewanKim </weak></em>
-</div>
+<div align ="right">
+<p><em><weak>이 이력서는 사실이 아닙니다</weak></em>
+<br><em><weak>designed By JaewanKim </weak></em>
+</p></div>
